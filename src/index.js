@@ -9,4 +9,4 @@ import { Signup } from "./signup";
 import App from "./App";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<Signup />);
+root.render(<Dashboard />);
